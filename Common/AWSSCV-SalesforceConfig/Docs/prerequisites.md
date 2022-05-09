@@ -84,4 +84,4 @@ Follow the following steps to prepare your Salesforce Org before running the Clo
 12. In the Permission Sets section, select **Manage Permission Sets**
 13. Select the checkbox next to **AWS_Utility**, then choose **Save**
 
-You have now completed the prerequisite configuration. Please continue with [depolying the template](installation.md).
+You have now completed the prerequisite configuration. Please continue with [deploying the template](installation.md).
